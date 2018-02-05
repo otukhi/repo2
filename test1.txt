@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C6A6-F433
+
+ Directory of C:\Users\OTUKHI\Desktop\myProject
+
+02/05/2018  01:06 PM    <DIR>          .
+02/05/2018  01:06 PM    <DIR>          ..
+02/05/2018  01:06 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  678,820,442,112 bytes free
